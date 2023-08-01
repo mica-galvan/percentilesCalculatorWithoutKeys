@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "outDir": "./dist",
+    "rootDir": "./",
+    "module": "CommonJS",
+    "esModuleInterop": true
+  },
+  "include": [
+    "percentilesCalculator.ts",
+    "scoreData.json"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
